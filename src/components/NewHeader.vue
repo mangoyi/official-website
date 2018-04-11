@@ -343,7 +343,7 @@
     width: 100%;
     left: 0;
     top: 92px;
-    background: rgba(235, 236, 238, 0.4);
+    background: rgba(235, 236, 238, 1);
 }
 .navul .h-l-wrap {
     min-width: 1200px;
